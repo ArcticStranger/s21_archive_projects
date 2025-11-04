@@ -1,0 +1,12 @@
+BasedOnStyle: Google
+Language: Cpp
+IndentWidth: 2
+TabWidth: 2
+UseTab: Never
+ColumnLimit: 80
+BreakBeforeBraces: Attach
+AllowShortFunctionsOnASingleLine: None
+AllowShortIfStatementsOnASingleLine: false
+AllowShortLoopsOnASingleLine: false
+AlignAfterOpenBracket: Align
+SpaceBeforeParens: ControlStatements
